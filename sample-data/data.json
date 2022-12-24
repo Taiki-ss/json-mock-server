@@ -1,0 +1,166 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"name": "John Smith",
+			"age": 30,
+			"gender": "male",
+			"occupation": "software engineer",
+			"address": "123 Main Street, New York, NY 10001"
+		},
+		{
+			"id": 2,
+			"name": "Jane Smith",
+			"age": 25,
+			"gender": "female",
+			"occupation": "graphic designer",
+			"address": "456 Park Avenue, New York, NY 10022"
+		},
+		{
+			"id": 3,
+			"name": "Bob Johnson",
+			"age": 35,
+			"gender": "male",
+			"occupation": "marketing manager",
+			"address": "789 Market Street, San Francisco, CA 94103"
+		},
+		{
+			"id": 4,
+			"name": "Alice Williams",
+			"age": 28,
+			"gender": "female",
+			"occupation": "project manager",
+			"address": "321 Market Street, San Francisco, CA 94105"
+		},
+		{
+			"id": 5,
+			"name": "Mike Brown",
+			"age": 40,
+			"gender": "male",
+			"occupation": "IT manager",
+			"address": "159 Market Street, San Francisco, CA 94108"
+		},
+		{
+			"id": 6,
+			"name": "Samantha Jones",
+			"age": 32,
+			"gender": "female",
+			"occupation": "customer service representative",
+			"address": "753 Market Street, San Francisco, CA 94109"
+		},
+		{
+			"id": 7,
+			"name": "Tom Davis",
+			"age": 26,
+			"gender": "male",
+			"occupation": "web developer",
+			"address": "941 Market Street, San Francisco, CA 94110"
+		},
+		{
+			"id": 8,
+			"name": "Emma Taylor",
+			"age": 29,
+			"gender": "female",
+			"occupation": "web designer",
+			"address": "853 Market Street, San Francisco, CA 94111"
+		},
+		{
+			"id": 9,
+			"name": "William Thompson",
+			"age": 33,
+			"gender": "male",
+			"occupation": "sales representative",
+			"address": "741 Market Street, San Francisco, CA 94112"
+		},
+		{
+			"id": 10,
+			"name": "Ashley Anderson",
+			"age": 24,
+			"gender": "female",
+			"occupation": "administrative assistant",
+			"address": "629 Market Street, San Francisco, CA 94113"
+		}
+	],
+	"cities": [
+		{
+			"name": "Tokyo",
+			"country": "Japan",
+			"population": 13350000,
+			"area": 2187,
+			"highest_temp": 35,
+			"lowest_temp": 0
+		},
+		{
+			"name": "New York",
+			"country": "United States",
+			"population": 8175133,
+			"area": 468.9,
+			"highest_temp": 38,
+			"lowest_temp": -9
+		},
+		{
+			"name": "Mexico City",
+			"country": "Mexico",
+			"population": 8874724,
+			"area": 1485,
+			"highest_temp": 33,
+			"lowest_temp": 7
+		},
+		{
+			"name": "Mumbai",
+			"country": "India",
+			"population": 18844000,
+			"area": 603,
+			"highest_temp": 37,
+			"lowest_temp": 23
+		},
+		{
+			"name": "São Paulo",
+			"country": "Brazil",
+			"population": 21246500,
+			"area": 1521,
+			"highest_temp": 32,
+			"lowest_temp": 19
+		},
+		{
+			"name": "Delhi",
+			"country": "India",
+			"population": 29871400,
+			"area": 1484,
+			"highest_temp": 47,
+			"lowest_temp": 7
+		},
+		{
+			"name": "Shanghai",
+			"country": "China",
+			"population": 24150000,
+			"area": 6341,
+			"highest_temp": 35,
+			"lowest_temp": 1
+		},
+		{
+			"name": "Karachi",
+			"country": "Pakistan",
+			"population": 14910352,
+			"area": 3527,
+			"highest_temp": 43,
+			"lowest_temp": 7
+		},
+		{
+			"name": "Istanbul",
+			"country": "Turkey",
+			"population": 15200000,
+			"area": 5471,
+			"highest_temp": 32,
+			"lowest_temp": 3
+		},
+		{
+			"name": "Moscow",
+			"country": "Russia",
+			"population": 12506468,
+			"area": 2511,
+			"highest_temp": 28,
+			"lowest_temp": -18
+		}
+	]
+}
